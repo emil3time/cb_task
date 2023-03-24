@@ -1,0 +1,13 @@
+
+
+
+
+###
+GET http://jsonplaceholder.typicode.com/photos
+
+###
+GET https://jsonplaceholder.typicode.com/comments?_start=0&_limit=20
+# If-None-Match: W/"630-yJIQx3iQGBj+kPyWQAqVHRy424c"
+
+###  404 response code 
+GET https://jsonplaceholder.typicode.com/com?_start=0&_limit=20
