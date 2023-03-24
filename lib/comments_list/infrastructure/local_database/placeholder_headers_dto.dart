@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-part '../placeholder_headers_dto.freezed.dart';
-part '../placeholder_headers_dto.g.dart';
+part 'placeholder_headers_dto.freezed.dart';
+part 'placeholder_headers_dto.g.dart';
 
 @freezed
 class PlaceholderHeadersDTO with _$PlaceholderHeadersDTO {

@@ -2,7 +2,7 @@
 
 // ignore_for_file: non_constant_identifier_names
 
-part of 'local_database/placeholder_headers_dto.dart';
+part of 'placeholder_headers_dto.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator
